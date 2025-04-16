@@ -35,7 +35,6 @@ R² Score
 
 🤔 Why This Matters
 Accurate prediction of solubility helps scientists:
-
 Prioritize compounds for synthesis
 Reduce experimental costs
 Speed up drug development pipelines
